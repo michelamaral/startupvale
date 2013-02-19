@@ -1,0 +1,49 @@
+body {
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 40%;
+	background: url(background.jpg);
+	background-size: 100%;
+	font-family: "Helvetica Neue",Arial,sans-serif;
+}
+
+h1 {
+	color: white;
+}
+
+p {
+	color: white;
+	font-size: 15pt;
+	text-shadow: 0 1px 0 black;
+}
+
+strong {
+	font-size: 12pt;
+}
+
+.container {
+	background: rgba(0,0,0,0.3);
+	border-radius: 20px;
+	padding: 5%;
+}
+
+
+#logo {
+	background: url(logo.png) no-repeat;
+}
+
+#social-media {
+	color: white;
+	font-family: "Helvetica Neue",Arial,sans-serif;
+	text-shadow: 0 1px 0 black;
+}
+
+#social-media a {
+	color: white;
+	text-decoration: none;
+}
+
+#social-media img {
+	vertical-align: middle;
+}
+
